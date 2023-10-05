@@ -26,6 +26,7 @@ In order To gain deeper insights into the data patterns, we examined the data em
 
 * This histogram shows that most of the warehouses are located in the Rural zone which could potentially impact the FMCG company’s agility.
 
+![imgonline-com-ua-twotoone-yMw9Pex3fs73](https://github.com/HibaBargaoui/Project-2/assets/135720154/96ff8b9c-af7a-49e9-9a16-dd49c8371cf4)
 
 
 * The majority of products are dispatched to the North, primarily due to its large storage capacity. However, The more products we store, the more storage complications we might encounter, as suggested by the graph below:
