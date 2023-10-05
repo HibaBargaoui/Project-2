@@ -9,12 +9,10 @@
 To improve the FMCG company's supply chain, it's crucial for higher management to strike a balance between customer demand and product supply. Data scientists play a key role in this process. Their task is to create a strong and reliable model that can aid the company in figuring out the perfect weight of products to be shipped to each warehouse. By doing so, the company can ensure a seamless and efficient supply chain, meeting customer demands effectively.
 
 
-## Data: 
+## Data Description: 
+This dataset contains 25000 rows and 24 columns of valuable information about the instant noodles business that the FMCG has created. 
 
-
-
-For this dataset, we have 8523 rows and 12 columns. 
-
+Data source: https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization-for-a-fmcg-company
 ## Data Dictionary:
 ![Data](https://github.com/HibaBargaoui/Project-2/assets/135720154/db97f651-9e10-4cda-8b04-c8fffc619139)
 
