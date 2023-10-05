@@ -10,6 +10,7 @@ To improve the FMCG company's supply chain, it's crucial for higher management t
 
 
 ## Data: 
+![Data](https://github.com/HibaBargaoui/Project-2/assets/135720154/db97f651-9e10-4cda-8b04-c8fffc619139)
 
 
 For this dataset, we have 8523 rows and 12 columns. 
