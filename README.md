@@ -52,7 +52,7 @@ In order To gain deeper insights into the data patterns, we examined the data em
 ![im4](https://github.com/HibaBargaoui/Project-2/assets/135720154/72354a05-6ce5-45d1-9921-3a18ae707227)
 
 ## Best Maching Learning Models:
-#### Gradiant Boosting Regressor: 
+#### Gradient Boosting Regressor: 
 * Evaluation metrics for the training set:
   
   Mean_Absolute_Error: 667.66 
