@@ -31,6 +31,8 @@ In order To gain deeper insights into the data patterns, we examined the data em
 
 * The majority of products are dispatched to the North, primarily due to its large storage capacity. However, The more products we store, the more storage complications we might encounter, as suggested by the graph below:
 
+![im4](https://github.com/HibaBargaoui/Project-2/assets/135720154/72354a05-6ce5-45d1-9921-3a18ae707227)
+
   
 
 ## Best Maching Learning Models:
