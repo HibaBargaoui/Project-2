@@ -15,7 +15,6 @@ Data source: https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization
 
 ## Data Dictionary:
 ![Variable_page-0001 (1)](https://github.com/HibaBargaoui/Project-2/assets/135720154/ce8f8723-7434-4958-a3c5-b3d41a74ce11)
-
 ## Data Analysis:
 In order To gain deeper insights into the data patterns, we examined the data employing straightforward and informative data visualizations:
 
