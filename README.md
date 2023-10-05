@@ -17,6 +17,7 @@ Data source: https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization
 ![imgonline-com-ua-twotoone-AchdCrVuq7Psoyf](https://github.com/HibaBargaoui/Project-2/assets/135720154/f6177a40-b866-452f-8cd6-2a077007ee96)
 
 <img width="410" alt="D1" src="https://github.com/HibaBargaoui/Project-2/assets/135720154/dc1ac942-7b73-4089-9d89-6deaa2967517">
+<img width="411" alt="D2" src="https://github.com/HibaBargaoui/Project-2/assets/135720154/be009856-79d8-457e-b1f2-691d96f1de83">
 
 
 
