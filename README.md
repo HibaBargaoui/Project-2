@@ -1,5 +1,6 @@
 # Supply Chain Optimization for a FMCG Company
-![FMCG](https://github.com/HibaBargaoui/Project-2/assets/135720154/1022fe86-5760-40c6-8a91-a05cb54ada4b)
+![FMCG](https://github.com/HibaBargaoui/Project-2/assets/135720154/d1f89df0-4310-4cfd-8d04-a6ff06fac028)
+
 
 
 **Author**: Hiba Bargaoui 
