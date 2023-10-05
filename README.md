@@ -14,7 +14,8 @@ This dataset contains 25000 rows and 24 columns of valuable information about th
 
 Data source: https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization-for-a-fmcg-company
 ## Data Dictionary:
-![Data](https://github.com/HibaBargaoui/Project-2/assets/135720154/db97f651-9e10-4cda-8b04-c8fffc619139)
+![imgonline-com-ua-twotoone-AchdCrVuq7Psoyf](https://github.com/HibaBargaoui/Project-2/assets/135720154/f6177a40-b866-452f-8cd6-2a077007ee96)
+
 
 ## Data Analysis:
 In order To gain deeper insights into the data patterns, we examined the data employing straightforward and informative data visualizations:
