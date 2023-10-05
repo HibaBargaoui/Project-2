@@ -10,18 +10,18 @@ To improve the FMCG company's supply chain, it's crucial for higher management t
 
 
 ## Data: 
-![Data](https://github.com/HibaBargaoui/Project-2/assets/135720154/db97f651-9e10-4cda-8b04-c8fffc619139)
+
 
 
 For this dataset, we have 8523 rows and 12 columns. 
 
 ## Data Dictionary:
-
+![Data](https://github.com/HibaBargaoui/Project-2/assets/135720154/db97f651-9e10-4cda-8b04-c8fffc619139)
 
 In order To gain deeper insights into the data patterns, we examined the data employing straightforward and informative data visualizations:
 
 ## Data Analysis:
-
+![im1](https://github.com/HibaBargaoui/Project-2/assets/135720154/3aa9d830-4cd2-4383-a580-a901b7a23ea0)
 
 
 * This histogram shows that most of the warehouses are located in the Rural zone which could potentially impact the FMCG company’s agility.
